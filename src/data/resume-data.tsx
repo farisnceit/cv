@@ -2,8 +2,8 @@ import { GitHubIcon, LinkedInIcon, XIcon } from "@/components/icons";
 import { PenIcon, YoutubeIcon } from "lucide-react";
 
 export const RESUME_DATA = {
-  name: "Mukesh Murugan",
-  initials: "MM",
+  name: "Mohamed Fariz",
+  initials: "M",
   avatar: "/mukesh_murugan.png",
   resume: "/cv.pdf",
   location: "Trivandrum, Kerala, India",
